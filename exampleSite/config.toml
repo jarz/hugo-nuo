@@ -14,7 +14,6 @@ googleAnalytics = "UA-XXXXXXXX-X"
 
 # Copyright of your post
 copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce."
-copyrightYear = 2018
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -44,6 +43,7 @@ copyrightYear = 2018
   subtitle = "~ Keep It Simple & Stupid ~"
   description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
   paginate = 10
+  copyrightYear = 2018
 
   # Choose your social networks
   email = "name@domain.com"

@@ -24,7 +24,7 @@ var filesToCache = [
 
 {{ with .Site.Params.fontAwesome }}
   // FontAwesome
-  'https://use.fontawesome.com/releases/v5.7.2/css/all.css',
+  'https://use.fontawesome.com/releases/v5.8.1/css/all.css',
 {{ else }}
   // Iconfont
   'https://at.alicdn.com/t/font_174169_qmgvd10zwbf.woff',
