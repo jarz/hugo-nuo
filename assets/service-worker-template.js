@@ -13,7 +13,6 @@ var filesToCache = [
   'icons/icon-512x512.png',
   'images/avatar.png',
   'images/grey-prism.svg',
-  'images/qrcode.jpg',
   'styles/main-rendered.min.css',
 {{ with .Site.Params.customStyle }}'styles/custom.min.css',{{ end }}
   'scripts/index.min.js',
